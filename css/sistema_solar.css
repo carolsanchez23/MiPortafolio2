@@ -1,0 +1,21 @@
+body{
+    background-repeat: repeat;
+    padding-left: 80px;
+  }
+  ul > li{
+    
+     padding-right: 50px;
+    
+   }
+   h2{
+     padding-right: 50px;
+      
+   }
+   p{
+     padding-right: 50px;
+     
+   }
+ img{
+  width: 450px;
+  height: 420px;
+ }

@@ -1,0 +1,38 @@
+
+h1{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(145, 204, 243);
+    text-align: center;
+  }
+  li {
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  p{
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  h2{
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  h4{
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  h5{
+  padding-right: 50px;
+    padding-left: 50px;
+  }
+  section{
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  iframe{
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  .cambioColor {color:rgb(171, 7, 177);}
+  
+  .cambioColor:hover {color:rgb(255, 136, 0);}
